@@ -32,6 +32,7 @@ Copiar
 Editar
 mkdir backend
 cd backend
+
 📌 Passo 2: Criar um projeto Node.js
 Inicialize um projeto Node.js com:
 
@@ -53,6 +54,7 @@ cors → Libera acesso entre frontend e backend.
 body-parser → Processa dados enviados no corpo das requisições.
 mongoose → Biblioteca para interagir com o MongoDB.
 dotenv → Gerencia variáveis de ambiente.
+
 📌 Passo 4: Criar o servidor básico
 Crie um arquivo chamado server.js e adicione:
 
@@ -88,6 +90,7 @@ node server.js
 Se aparecer "Servidor rodando na porta 5000", o backend está funcionando! 🎉
 
 🔹 Etapa 3: Criando o Frontend com Angular
+
 📌 Passo 1: Criar o projeto Angular
 Abra outro terminal e crie a pasta do frontend:
 
